@@ -1,1 +1,1 @@
-Este es un proyecto de como crear un repositorio
+Este es un proyecto de como crear un repositorio.
